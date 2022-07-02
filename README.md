@@ -1,6 +1,6 @@
 # A Matlab toolbox implementing MSCG computation
 
-This tool has been developed by Luigi Ferrara (luigiferrara.info@gmail.com) at the end of each PhD in Computer Engineering at UNISA, as member of the Automatic Control Group.
+This tool has been developed by Luigi Ferrara (luigiferrara.info@gmail.com) at the end of his PhD in Computer Engineering at UNISA, as member of the Automatic Control Group.
 
 The usage and modification of the tool is free but it is kindly requested to cite the paper "A Matlab toolbox implementing MSCG computation", by F. Basile, L. Ferrara submitted to WODES 2022.
 
